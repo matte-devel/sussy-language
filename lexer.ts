@@ -1,4 +1,4 @@
-import { Token, token } from "./tools.ts";
+import { Token, token } from "./token.ts";
 
 export default class Lexer {
   private source: Array<string>;
